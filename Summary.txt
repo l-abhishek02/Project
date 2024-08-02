@@ -1,6 +1,0 @@
-	Project 2
-	Title: - Workout and Diet Suggester
-	Technology: - Java Programming 
-	Detail: - Developed a Stand-Alone Application where a user can login into his profile 	and can also create his profile.
-	The application will calculate the user’s BMI (body mass index) and will suggest the 	workout and diet accordingly.
-		User can also edit his/her profile.
